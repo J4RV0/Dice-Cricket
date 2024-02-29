@@ -1,0 +1,1 @@
+Short game coded in python. Players must try and score as high as possible with each dice roll being added to the players total, if the dice roll is equal to a 5 then the game is over and player scores are compared to see the winner.
